@@ -1,0 +1,17 @@
+# Elementos dento de la carpeta bin
+
+        bin/*
+
+# Config.json
+
+        config.json
+
+# Todos los nodes_modules
+
+	libs/*/node_modules
+
+# Todos los ficheros class
+
+	src/*.class
+
+
